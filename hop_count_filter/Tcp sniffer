@@ -1,2 +1,3 @@
 #this directory contains the the Tcp Sniffer with Hop Count Filter coded in same file
 # Due to the limitation of time we havent coded the IP to HOP Count filter yet but we will code it and post it here as soon as we can . 
+# The result which is shown (DROPING or NOT DROPING ) is based on the hop count  i.e if the hop count is (0) and then it is supposed that the the source addresss is spoofed and packet can be dropped as the obtained ttl value is not authentic
