@@ -1,0 +1,57 @@
+This log is generated in mininet 
+INFERENCE -- The TTl value of all the sources is 0 this means the destination of source is spoofed and can be reaced therefore 
+the ttl value is the machines ttl value as  and Hop Count is 0 
+This can be used to  check that wheather the packet is spoofed or not ,
+it the hop count is 0 but the ip is not in the ip table of the network then that packet can be droped 
+## This sniifer log is from the mininet and the packets flooding is done using Hping3
+
+
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.228.142.247 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.177.30.127 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.105.37.4 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.125.167.204 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.168.118.193 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.19.174.125 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.77.86.131 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.169.10.181 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.168.4.34 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.188.109.205 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.0.50.0 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.46.76.227 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.175.163.95 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.162.4.198 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.184.89.95 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.1.228.41 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.39.201.222 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.212.159.184 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.193.204.17 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.169.198.86 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.180.115.27 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.175.211.82 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.220.204.198 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.109.167.171 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.13.239.38 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.40.177.205 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.213.49.109 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.86.178.79 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.92.130.207 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.216.109.111 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.94.167.239 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.142.188.243 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.193.115.92 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.165.220.201 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.91.0.200 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.109.105.145 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.51.205.83 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.101.178.45 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.234.211.93 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.209.164.105 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.46.58.188 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.7.167.109 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.24.37.203 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.27.200.218 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.82.118.169 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.208.25.13 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.220.111.130 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.220.205.120 Destination Address : 10.0.0.1
+Version : 4 IP Header Length : 5 TTL : 64Hop Count : 0 Protocol : 6 Source Address : 10.244.109.175 Destination Address : 10.0.0.1
